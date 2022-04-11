@@ -205,11 +205,15 @@ main{
 
 /*  */
 .secaodeDepoimentos{
-    margin: 96px 0 0 166px;
+    margin: 96px 0 0 0;
+}
+
+.testedefundo{
     width: 1078px;
     background: #C3191908;
     padding: 64px;
     border-radius: 16px;
+    margin: auto;
 }
 
 
